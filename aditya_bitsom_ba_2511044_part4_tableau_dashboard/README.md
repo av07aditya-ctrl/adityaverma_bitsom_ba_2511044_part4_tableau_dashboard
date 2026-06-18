@@ -1,7 +1,7 @@
 # Part 4: Tableau Executive Dashboard & Data Storytelling
 
 **Student:** Aditya Verma | **ID:** `bitsom_ba_2511044`  
-**Repository:** `aditya_bitsom_ba_2511044_part4_tableau_dashboard`  
+**Repository:** `adityaverma_bitsom_ba_2511044_part4_tableau_dashboard`  
 **Tool Stack:** Python 3 (pandas, matplotlib) · Tableau Desktop · Markdown
 
 ---
@@ -15,7 +15,7 @@ An Indian retail enterprise needs an executive-level sales intelligence dashboar
 ## Repository Structure
 
 ```
-aditya_bitsom_ba_2511044_part4_tableau_dashboard/
+adityaverma_bitsom_ba_2511044_part4_tableau_dashboard/
 ├── data/
 │   └── dashboard_sales_data.xlsx        ← 4,200 rows × 20 columns
 ├── tableau/
