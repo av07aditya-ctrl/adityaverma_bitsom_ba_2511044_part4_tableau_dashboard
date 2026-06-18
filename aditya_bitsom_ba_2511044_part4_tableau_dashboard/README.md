@@ -30,7 +30,6 @@ adityaverma_bitsom_ba_2511044_part4_tableau_dashboard/
 │   ├── regional_performance_view.png    ← Geography deep-dive
 │   ├── category_profitability_view.png  ← Category + gauge charts
 │   └── filter_interaction_view.png      ← Filters + interaction demo
-├── part4_main.py                        ← Full generation script
 └── README.md
 ```
 
