@@ -19,7 +19,7 @@ adityaverma_bitsom_ba_2511044_part4_tableau_dashboard/
 ├── data/
 │   └── dashboard_sales_data.xlsx        ← 4,200 rows × 20 columns
 ├── tableau/
-│   └── executive_dashboard_build_guide.md ← Step-by-step Tableau build guide
+│   └── executive_dashboard.twbx 
 ├── outputs/
 │   ├── dashboard_story.md               ← Executive leadership briefing
 │   ├── business_insights.md             ← 8 structured insights (Obs→Evidence→Interp→Action)
@@ -119,14 +119,6 @@ Total Sales · Total Profit · Avg Order Value · Return Rate · Avg Discount
 | 7 | Return rate 4.55% — within norm but regionally uneven | Prioritise QC in high-return regions |
 | 8 | Campaign attribution gap (Unknown channel = ~0.6%) | Fix tracking, rebalance channel mix |
 
----
-
-## Tableau Build Guide
-
-Full step-by-step instructions to build `executive_dashboard.twbx` are in:  
-📄 [`tableau/executive_dashboard_build_guide.md`](tableau/executive_dashboard_build_guide.md)
-
-Covers: Data connection → Calculated fields → 7 worksheets → 5 KPI cards → Dashboard assembly → Filters → Actions → Export as `.twbx`
 
 ---
 
@@ -154,11 +146,10 @@ Covers: Data connection → Calculated fields → 7 worksheets → 5 KPI cards �
 
 ## Limitations
 
-1. No Tableau `.twbx` file included as Tableau requires a licensed desktop install — full build guide provided instead
-2. Campaign attribution gap (Unknown channel) limits channel ROI analysis
-3. 24-month window may not capture long-term cyclical patterns
-4. No competitor or market share data available for context
-5. Customer LTV not computable from this dataset alone
+1. Campaign attribution gap (Unknown channel) limits channel ROI analysis
+2. 24-month window may not capture long-term cyclical patterns
+3. No competitor or market share data available for context
+4. Customer LTV not computable from this dataset alone
 
 ---
 
